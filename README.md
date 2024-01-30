@@ -18,9 +18,6 @@
 - Redux-toolkit
 - JavaScript
 - Tailwind
-- Material UI
-- Vue
-- Vuex
 
 
 ### ⚙️ Tech Stack
