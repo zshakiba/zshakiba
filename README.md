@@ -17,6 +17,7 @@
 - Redux
 - Redux-toolkit
 - JavaScript
+- TypeScript
 - Tailwind
 
 
@@ -27,6 +28,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Redux%20Toolkit-05122A?style=flat-square&logo=Redux%20Toolkit&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-TanStack%20Query-05122A?style=flat-square&logo=TanStack-Query&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=Typescript&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Vue-05122A?style=flat-square&logo=Vue&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Tailwind-05122A?style=flat-square&logo=Tailwind&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=353535) 
