@@ -16,9 +16,12 @@
 - React
 - Redux
 - Redux-toolkit
+- React-Query
+- Apollo GraphQL
 - JavaScript
 - TypeScript
 - Tailwind
+- AntDesign
 
 
 ### ⚙️ Tech Stack
