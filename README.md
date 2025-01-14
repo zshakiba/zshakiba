@@ -28,7 +28,6 @@
 
 ### 📂Projects  
 - **[Next-blog-front](https://github.com/zshakiba/next-blog-front)**
-- **[Panel-Admin App](https://github.com/zshakiba/Panel-Admin)**
 - **[Freelnacer-App](https://github.com/zshakiba/Freelnacer-App)**
 - **[Rick-Morty-React-Project](https://github.com/zshakiba/Rick-Morty-React-Project)**
 - **[Booking-Hotel-App](https://github.com/zshakiba/Booking-Hotel-App)**
