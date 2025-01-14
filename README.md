@@ -6,42 +6,26 @@
 [![Github](https://img.shields.io/github/followers/zshakiba?label=Follow&style=social)](https://github.com/zshakiba)
 
 
-🤔 **Currently Learning**  
+###🤔 **Currently Learning**  
 - 📫Advanced [Next.js]([https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html](https://nextjs.org/docs)) patterns and optimizations  
 - 📫Backend integration with Apollo GraphQL  
 
 
 
-🖥 **Skills**  
-- **Frontend**: React.js, Next.js, Redux, Redux-toolkit, React-Query, Apollo GraphQL  
-- **Languages**: JavaScript, TypeScript  
-- **Styling**: Tailwind CSS, AntDesign, Bootstrap  
+###🖥 **Skills**  
+- **Frontend**: ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) , ![Bootstrap](https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=Next&color=353535) , ![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux&color=353535) , 
+![Bootstrap](https://img.shields.io/badge/-Redux%20Toolkit-05122A?style=flat-square&logo=Redux%20Toolkit&color=353535) , ![Bootstrap](https://img.shields.io/badge/-TanStack%20Query-05122A?style=flat-square&logo=TanStack-Query&color=353535) , ![Bootstrap](https://img.shields.io/badge/-ApoloClient-05122A?style=flat-square&logo=ApoloClient&color=353535)  
+- **Languages**: ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ,
+![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=Typescript&color=353535)    
+- **Styling**: ![Bootstrap](https://img.shields.io/badge/-Tailwind-05122A?style=flat-square&logo=Tailwind&color=353535) , ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=353535)  AntDesign
 
 
-
-⚙️ **Tech Stack**  
+### ⚙️ Tech Stack
 - Version Control: Git, GitHub  
 - Package Managers: npm  
 - Tools: VS Code, Figma, Postman 
 
-
-### ⚙️ Tech Stack
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=Next&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Redux%20Toolkit-05122A?style=flat-square&logo=Redux%20Toolkit&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-TanStack%20Query-05122A?style=flat-square&logo=TanStack-Query&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-ApoloClient-05122A?style=flat-square&logo=ApoloClient&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=Typescript&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Vue-05122A?style=flat-square&logo=Vue&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Tailwind-05122A?style=flat-square&logo=Tailwind&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
-
-
-📂 **Projects**  
+###📂 **Projects**  
 - **[E-commerce App](https://github.com/zshakiba/ecommerce)**: Built with React.js, Redux, and Tailwind CSS.  
 - **[Portfolio Website](https://github.com/zshakiba/portfolio)**: Personal portfolio built with Next.js and deployed on Vercel.  
 
