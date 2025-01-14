@@ -13,11 +13,11 @@
 
 
 ### 🖥Skills  
-- **Frontend**: ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535)  -  ![Bootstrap](https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=Next&color=353535)  -  ![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux&color=353535)  -  
-![Bootstrap](https://img.shields.io/badge/-Redux%20Toolkit-05122A?style=flat-square&logo=Redux%20Toolkit&color=353535)  -  ![Bootstrap](https://img.shields.io/badge/-TanStack%20Query-05122A?style=flat-square&logo=TanStack-Query&color=353535)  -  ![Bootstrap](https://img.shields.io/badge/-ApoloClient-05122A?style=flat-square&logo=ApoloClient&color=353535)  
-- **Languages**: ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535)  - 
-![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=Typescript&color=353535)    
-- **Styling**: ![Bootstrap](https://img.shields.io/badge/-Tailwind-05122A?style=flat-square&logo=Tailwind&color=353535)  -  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=353535)  AntDesign
+- **Frontend**: ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=Next&color=353535)   ![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux&color=353535) ![Bootstrap](https://img.shields.io/badge/-Redux%20Toolkit-05122A?style=flat-square&logo=Redux%20Toolkit&color=353535) ![Bootstrap](https://img.shields.io/badge/-TanStack%20Query-05122A?style=flat-square&logo=TanStack-Query&color=353535) ![Bootstrap](https://img.shields.io/badge/-ApoloClient-05122A?style=flat-square&logo=ApoloClient&color=353535)
+  
+- **Languages**: ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=Typescript&color=353535)
+
+- **Styling**: ![Bootstrap](https://img.shields.io/badge/-Tailwind-05122A?style=flat-square&logo=Tailwind&color=353535) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=353535) - AntDesign
 
 
 ### ⚙️Tech Stack
@@ -30,7 +30,8 @@
 - **[Portfolio Website](https://github.com/zshakiba/portfolio)**: Personal portfolio built with Next.js and deployed on Vercel.  
 
 
+
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zshakiba&show_icons=true&locale=en&layout=compact" alt="zshakiba" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=zshakiba&" alt="zshakiba" />
+<!--   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=zshakiba&" alt="zshakiba" /> -->
 </div>
