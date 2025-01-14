@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/github/followers/zshakiba?label=Follow&style=social)](https://github.com/zshakiba)
 
 
-###🤔 Currently Learning  
+### 🤔 Currently Learning  
 - 📫Advanced [Next.js]([https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html](https://nextjs.org/docs)) patterns and optimizations  
 - 📫Backend integration with Apollo GraphQL  
 
