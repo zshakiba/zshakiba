@@ -27,8 +27,12 @@
 
 
 ### 📂Projects  
-- **[E-commerce App](https://github.com/zshakiba/ecommerce)**: Built with React.js -  Redux -  and Tailwind CSS.  
-- **[Portfolio Website](https://github.com/zshakiba/portfolio)**: Personal portfolio built with Next.js and deployed on Vercel.  
+- **[Next-blog-front](https://github.com/zshakiba/next-blog-front)**
+- **[Panel-Admin App](https://github.com/zshakiba/Panel-Admin)**
+- **[Freelnacer-App](https://github.com/zshakiba/Freelnacer-App)**
+- **[Rick-Morty-React-Project](https://github.com/zshakiba/Rick-Morty-React-Project)**
+- **[Booking-Hotel-App](https://github.com/zshakiba/Booking-Hotel-App)**
+
 
 
 
